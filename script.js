@@ -14,10 +14,10 @@ myAudio.onpause = function() {
 
 function myFunction4() {
   var element = document.getElementById("font");
-  if (element.classList === "w3-xlarge") {
-    element.classList.toggle("w3-xxlarge") 
+  if (element.classList === "w3-large") {
+    element.classList.toggle("w3-xlarge") 
   } else {
-    element.classList.toggle("w3-xxlarge")
+    element.classList.toggle("w3-xlarge")
   }
 
 }
