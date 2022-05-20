@@ -11,3 +11,13 @@ myAudio.onplaying = function() {
 myAudio.onpause = function() {
   isPlaying = false;
 };
+
+function myFunction4() {
+  var element = document.getElementById("font");
+  if (element.classList === "w3-xlarge") {
+    element.classList.toggle("w3-xxlarge") 
+  } else {
+    element.classList.toggle("w3-xxlarge")
+  }
+
+}
