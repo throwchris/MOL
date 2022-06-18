@@ -1,7 +1,7 @@
 body {
     
     background-color: black;
-    color: white;
+    color: #dcdcdc;
     
   }
   
@@ -10,16 +10,15 @@ body {
     color: black;
   }
  
- 
+  
+  
+
   img {
     max-width: 100%;
     height: auto;
   }
 
- audio {
+  audio {
 
-  width: 390px;
-   
-  
- }
-
+    width: 390px;
+  }
